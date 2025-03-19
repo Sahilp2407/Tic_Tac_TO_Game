@@ -2,7 +2,6 @@
 
 > *"A classic game, reimagined in the console with AI and multiple modes!"*
 
-![Tic Tac Toe Banner](https://raw.githubusercontent.com/saahilcandaan/media-assets/main/tictactoe_banner_dark.png)
 
 
 ---
